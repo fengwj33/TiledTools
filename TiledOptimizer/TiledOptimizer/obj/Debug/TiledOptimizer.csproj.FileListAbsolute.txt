@@ -1,0 +1,9 @@
+D:\Tools\TiledOptimizer\TiledOptimizer\bin\Debug\TiledOptimizer.exe.config
+D:\Tools\TiledOptimizer\TiledOptimizer\bin\Debug\TiledOptimizer.exe
+D:\Tools\TiledOptimizer\TiledOptimizer\bin\Debug\TiledOptimizer.pdb
+D:\Tools\TiledOptimizer\TiledOptimizer\obj\Debug\TiledOptimizer.Form1.resources
+D:\Tools\TiledOptimizer\TiledOptimizer\obj\Debug\TiledOptimizer.Properties.Resources.resources
+D:\Tools\TiledOptimizer\TiledOptimizer\obj\Debug\TiledOptimizer.csproj.GenerateResource.Cache
+D:\Tools\TiledOptimizer\TiledOptimizer\obj\Debug\TiledOptimizer.exe
+D:\Tools\TiledOptimizer\TiledOptimizer\obj\Debug\TiledOptimizer.pdb
+D:\Tools\TiledOptimizer\TiledOptimizer\obj\Debug\TiledOptimizer.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+D:\Tools\TiledmapCreator\TiledmapCreator\bin\Debug\TiledmapCreator.exe.config
+D:\Tools\TiledmapCreator\TiledmapCreator\bin\Debug\TiledmapCreator.exe
+D:\Tools\TiledmapCreator\TiledmapCreator\bin\Debug\TiledmapCreator.pdb
+D:\Tools\TiledmapCreator\TiledmapCreator\obj\Debug\TiledmapCreator.csprojResolveAssemblyReference.cache
+D:\Tools\TiledmapCreator\TiledmapCreator\obj\Debug\TiledmapCreator.Form1.resources
+D:\Tools\TiledmapCreator\TiledmapCreator\obj\Debug\TiledmapCreator.Properties.Resources.resources
+D:\Tools\TiledmapCreator\TiledmapCreator\obj\Debug\TiledmapCreator.csproj.GenerateResource.Cache
+D:\Tools\TiledmapCreator\TiledmapCreator\obj\Debug\TiledmapCreator.exe
+D:\Tools\TiledmapCreator\TiledmapCreator\obj\Debug\TiledmapCreator.pdb
